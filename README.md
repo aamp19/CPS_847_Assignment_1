@@ -1,2 +1,2 @@
-# CPS_847_Assignment_1
+# CPS847 Assignment 1
 
